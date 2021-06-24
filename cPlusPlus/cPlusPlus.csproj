@@ -154,6 +154,12 @@
       <Version>6.2.12</Version>
     </PackageReference>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\WindowsRuntimeComponent1\WindowsRuntimeComponent1.vcxproj">
+      <Project>{81514da6-dab4-407e-992d-865c7daa1cf4}</Project>
+      <Name>WindowsRuntimeComponent1</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>
   </PropertyGroup>

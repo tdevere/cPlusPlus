@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cPlusPlus", "cPlusPlus\cPlusPlus.csproj", "{40DAF18D-9AF6-40FE-8EF0-57A7F8688F87}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WindowsRuntimeComponent1", "WindowsRuntimeComponent1\WindowsRuntimeComponent1.vcxproj", "{81514DA6-DAB4-407E-992D-865C7DAA1CF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
@@ -41,6 +43,22 @@ Global
 		{40DAF18D-9AF6-40FE-8EF0-57A7F8688F87}.Release|x86.ActiveCfg = Release|x86
 		{40DAF18D-9AF6-40FE-8EF0-57A7F8688F87}.Release|x86.Build.0 = Release|x86
 		{40DAF18D-9AF6-40FE-8EF0-57A7F8688F87}.Release|x86.Deploy.0 = Release|x86
+		{81514DA6-DAB4-407E-992D-865C7DAA1CF4}.Debug|ARM.ActiveCfg = Debug|ARM
+		{81514DA6-DAB4-407E-992D-865C7DAA1CF4}.Debug|ARM.Build.0 = Debug|ARM
+		{81514DA6-DAB4-407E-992D-865C7DAA1CF4}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{81514DA6-DAB4-407E-992D-865C7DAA1CF4}.Debug|ARM64.Build.0 = Debug|ARM64
+		{81514DA6-DAB4-407E-992D-865C7DAA1CF4}.Debug|x64.ActiveCfg = Debug|x64
+		{81514DA6-DAB4-407E-992D-865C7DAA1CF4}.Debug|x64.Build.0 = Debug|x64
+		{81514DA6-DAB4-407E-992D-865C7DAA1CF4}.Debug|x86.ActiveCfg = Debug|Win32
+		{81514DA6-DAB4-407E-992D-865C7DAA1CF4}.Debug|x86.Build.0 = Debug|Win32
+		{81514DA6-DAB4-407E-992D-865C7DAA1CF4}.Release|ARM.ActiveCfg = Release|ARM
+		{81514DA6-DAB4-407E-992D-865C7DAA1CF4}.Release|ARM.Build.0 = Release|ARM
+		{81514DA6-DAB4-407E-992D-865C7DAA1CF4}.Release|ARM64.ActiveCfg = Release|ARM64
+		{81514DA6-DAB4-407E-992D-865C7DAA1CF4}.Release|ARM64.Build.0 = Release|ARM64
+		{81514DA6-DAB4-407E-992D-865C7DAA1CF4}.Release|x64.ActiveCfg = Release|x64
+		{81514DA6-DAB4-407E-992D-865C7DAA1CF4}.Release|x64.Build.0 = Release|x64
+		{81514DA6-DAB4-407E-992D-865C7DAA1CF4}.Release|x86.ActiveCfg = Release|Win32
+		{81514DA6-DAB4-407E-992D-865C7DAA1CF4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
