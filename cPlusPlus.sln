@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cPlusPlus", "cPlusPlus\cPlusPlus.csproj", "{40DAF18D-9AF6-40FE-8EF0-57A7F8688F87}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WindowsRuntimeComponent1", "WindowsRuntimeComponent1\WindowsRuntimeComponent1.vcxproj", "{81514DA6-DAB4-407E-992D-865C7DAA1CF4}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WindowsRuntimeComponent1", "WindowsRuntimeComponent1\WindowsRuntimeComponent1.csproj", "{81514DA6-DAB4-407E-992D-865C7DAA1CF4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
